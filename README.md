@@ -13,7 +13,7 @@ A Basic PVE (Player vs Environment) system for DayZ that enhances gameplay by re
 ## Technical Details
 
 The mod works by overriding key game functions:
-- Removes damage calculation in various contact scenarios
+
 - Blocks damage transfer between players
 
 ## Compatibility
